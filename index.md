@@ -3,6 +3,8 @@ layout: home
 ---
 
 Hello! I'm Shafqat Ehsan, a PhD student in the Quantitative Sciences Program at the University of Texas MD Anderson UT Health Houston GSBS. My research is primarily focused on understanding resistance mechanisms to chemoradiotherapy (CRT) and identifying potential radiosensitizing drugs for cervical cancer. I identify as a "Damp" Bioinformatician interested in translational research.
+![(/site_logo.jpg)
+
 
 ## My Work
 
