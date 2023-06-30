@@ -4,8 +4,14 @@ description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my personal site
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: ScientificEhsan
-github_username:  ScientificEhsan
+social:
+  - key: GitHub
+    username: ScientificEhsan
+  - key: Twitter
+    username: ScientificEhsan
+  - key: LinkedIn
+    username: shafqatehsan
+
 theme: minima
 plugins:
   - jekyll-feed
