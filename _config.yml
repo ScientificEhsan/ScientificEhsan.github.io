@@ -10,4 +10,4 @@ linkedin_username: Shafqatehsan
 
 theme: minima
 plugins:
-  - jekyll-feed
+  - jekyll-feed 
