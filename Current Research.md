@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Current Research
-permalink: /research/
+permalink: /current-research/
 ---
 
 #Mapping Resistant Mechanisms to Chemoradiotherapy and Identification of Novel Radiosensitizing Drugs for Cervical Cancer 
