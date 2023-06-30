@@ -4,6 +4,8 @@ title:  "Harnessing the Power of Science Communication"
 date:   2023-06-30
 categories: jekyll update
 ---
+![SciCom](/SciCom.jpg)
+
 Picture science as a secret garden, vibrant with vibrant ideas, teeming with theories, and brimming with breathtaking discoveries. But, as Carl Sagan noted, “We live in a society exquisitely dependent on science and technology, in which hardly anyone knows anything about science and technology.” Science communication is our friendly guide, leading us down the garden path, unveiling the treasures that science conceals. 
 
 Think of science communication as a skilled translator, bridging the chasm between complex data and daily discourse. It ensures the precious pearls of scientific wisdom aren’t locked away in lofty towers but are shared, celebrated, and understood by all. As Marie Curie affirmed, “You cannot hope to build a better world without improving the individuals.” 
