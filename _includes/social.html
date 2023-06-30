@@ -1,0 +1,26 @@
+<ul class="social-media-list">
+  {% for network in site.minima.social_links %}
+    {% assign username = site[network.key] %}
+    {% case network.key %}
+      {% when 'twitter' %}
+        <li>
+          <a href="https://twitter.com/{{ username }}">
+            <svg class="svg-icon grey"><use xlink:href="{{ '/assets/minima-social-icons.svg#twitter' | relative_url }}"></use></svg> <span class="username">{{ username }}</span>
+          </a>
+        </li>
+      {% when 'github' %}
+        <li>
+          <a href="https://github.com/{{ username }}">
+            <svg class="svg-icon grey"><use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}"></use></svg> <span class="username">{{ username }}</span>
+          </a>
+        </li>
+      {% when 'LinkedIn' %}
+        <li>
+          <a href="https://linkedin.com/in/{{ username }}">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-linkedin"><path d="M6 9h3v12H6zm5 2h3v10h-3zm2-4a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2h-3a2 2 0 0 1-2-2V9a2 2 0 0 1 2-2z"></path></svg>
+            <span class="username">{{ username }}</span>
+          </a>
+        </li>
+      {% endcase %}
+    {% endfor %}
+</ul>
