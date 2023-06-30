@@ -1,5 +1,8 @@
-Shafqat F. Ehsan
-Houston, TX	210-625-0501		LinkedIn Profile shafqat.ehsan@uth.tmc.edu 	sfehsan@mdanderson.org
+---
+layout: page
+title: CV
+permalink: /cv/
+---
 
 Research Interest: Translational Bioinformatics, Cancer Biology, Computational Biology
 
