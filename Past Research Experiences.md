@@ -41,3 +41,27 @@ Advisor: Robert C. Bast Jr.,MD
     Project: Quantum dot Alloy synthesis. 
     Synthesizing QD Alloys using digestive ripening. 
     Findings led to the publication “Tuning the Dimensionality of Excitons in Colloidal Quantum Dot Molecules”. 
+
+
+
+#References: 
+1. Lauren E. Colbert, MD, MSCR, 
+    Assistant Professor, Department of Radiation Oncology, The University of Texas MD Anderson Cancer Center, Houston, TX           Contact: lcolbert@mdanderson.org 
+
+2. Loukia G. Karacosta, Ph.D.
+   Assistant Professor, Department of Cancer Systems Imaging,
+   The University of Texas MD Anderson Cancer Center, Houston, TX Contact: lgkaracosta@mdanderson.org 
+3. Robert C. Bast, M.D., 
+   Vice President for Translational Research,
+   The University of Texas MD Anderson Cancer Center, Houston, TX Contact: rbast@mdanderson.org 
+
+4. Verónica Contreras-Shannon, Ph.D. 
+    Professor and Program Director – MARC U*STAR, Department of Biological SciencesSt. Mary’s University, San Antonio, TX           Contact: vcontrerasshann2@stmarytx.edu 
+
+5. Erika Schwarz Taylor, Ph.D.
+   Sr. Field Bioinformatics Support Scientist, Illumina ||
+   Co-founder & Scientific advisor, Environmental Quality Operations Contact: erika.schwarz@eqo.life 
+
+6.  Dmitriy Khon, Ph.D.
+    Associate Professor of Chemistry, Department of Chemistry and BiochemistrySt. Mary’s University, San Antonio, TX
+    Contact: dkhon@stmarytx.edu 
