@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Sci Comm"
+title:  "Opinion Articles"
 date:   2023-06-30
 categories: jekyll update
 ---
