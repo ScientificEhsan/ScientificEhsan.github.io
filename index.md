@@ -3,8 +3,8 @@ layout: home
 ---
 
 <div class="profile-section">
-![Shafqat Ehsan in Lab Coat](/SFE_LabCoat_1.jpg)
-  <div class="intro-text"> <p>Hello and welcome! I’m Shafqat, a PhD candidate in Systems Biology with over three years of experience at the intersection of cancer biology and computational biology. I strive to apply high "thought" put in high-throughput experiments to test a hypothesis and bridge hands-on experimentation and computational analysis to drive oncology research. </p>
+  <img src="/SFE_LabCoat_1.jpg" alt="Shafqat Ehsan in Lab Coat"> <div class="intro-text">
+    <p>Hello and welcome! I’m Shafqat, a PhD candidate in Systems Biology with over three years of experience at the intersection of cancer biology and computational biology. I strive to apply high "thought" put in high-throughput experiments to test a hypothesis and bridge hands-on experimentation and computational analysis to drive oncology research. </p>
 
     <p>On the computational side, I build end-to-end pipelines that take raw sequencing reads (RNA-seq, proteomics, CyTOF) through quality control, alignment and quantification, integrate these multi-omics layers with functional genomics results, and culminate in interpretable network models. Leveraging machine-learning methods, I pinpoint biomarkers of therapeutic resistance and forecast patient response trajectories. </p>
 
