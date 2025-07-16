@@ -5,26 +5,13 @@ layout: home
 <div class="profile-section">
   ![Shafqat Ehsan in Lab Coat](/SFE_LabCoat_1.jpg)
   <div class="intro-text">
-    <p>Shafqat Ehsan, a PhD student in the Quantitative Sciences Program at the UT MD Anderson UT Health Houston GSBS, is focusing his research on understanding resistance mechanisms to chemoradiotherapy (CRT) and identifying potential radiosensitizing drugs for cervical cancer. His research applies a methodical approach utilizing tools like CRISPR/Cas9 screening, Next Generation Sequencing (Panomics), CyTOF, and Machine Learning. With a focus on translational bioinformatics, Shafqat's work aims to identify potential targets within the DNA damage pathway and uncover existing drugs that can enhance the efficacy of radiation therapy.</p>
+    <p>Hello and welcome! I’m Shafqat, a PhD candidate in Systems Biology with over three years of experience at the intersection of cancer biology and computational biology. I strive to apply high "thought" put in high-throughput experiments to test a hypothesis and bridge hands-on experimentation and computational analysis to drive oncology research. 
 
+On the computational side, I build end-to-end pipelines that take raw sequencing reads (RNA-seq, proteomics, CyTOF) through quality control, alignment and quantification, integrate these multi-omics layers with functional genomics results, and culminate in interpretable network models. Leveraging machine-learning methods, I pinpoint biomarkers of therapeutic resistance and forecast patient response trajectories. 
+
+Collaboration is at the heart of what I do. By partnering with wet-lab scientists, data scientists and clinicians, I ensure every computational insight generates a testable hypothesis—and every experiment yields data ripe for deeper computational mining. Now, I’m excited to bring this systems-level perspective to industry: whether you’re advancing precision-oncology platforms, identifying new drug targets or refining diagnostic pipelines, let’s connect and explore how my expertise can accelerate your next breakthrough.
     <p>One significant aspect of his research is the development of a CRT resistance map at single-cell resolution. By applying machine learning techniques to longitudinal data from patients and patient-derived organoids, Shafqat seeks to provide predictive insights into individual treatment outcomes, laying the groundwork for more personalized, precision medicine approaches in the future.</p>
   </div>
 </div>
 
-## My Work
-
-My current project involves using tools such as CRISPR/Cas9 screening, Next Generation Sequencing (Panomics), CyTOF, and Machine Learning to map resistant mechanisms to chemoradiotherapy and identify novel radiosensitizing drugs for cervical cancer. 
-
-Check out the [Current Research](/current-research) page for a more in-depth look at my work, including a detailed overview of my specific aims and research methodology.
-
-## Science Communication Blog
-
-In addition to my research, I'm passionate about science communication. I believe it's vital to make science accessible to all, and I enjoy sharing my thoughts and insights on various topics related to science and technology.
-
-You can check out my latest blog post, "Harnessing the Power of Science Communication," on my [Sci Comm](/sci-comm) page.
-
-## Publications
-
-I have been fortunate to have my work recognized in several publications. For more details, please visit my [Publications](/publications) page.
-
-Thank you for visiting my website! Feel free to [contact me](/contact) if you have any questions or would like to chat about bioinformatics.
+Thank you for visiting my website! Feel free to [contact me](/contact). 
