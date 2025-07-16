@@ -94,3 +94,27 @@ blockquote {
   border-left-color: $border-color;
   color: $text-color;
 }
+/* Custom styles for image and text spacing */
+.profile-section {
+  text-align: center; // Centers the image and potentially the first line of text
+  margin-bottom: 2em; // Adds space below the image and intro text
+}
+
+.profile-section img {
+  max-width: 100%; // Ensures the image scales down on small screens
+  width: 350px; // Sets a maximum width for larger screens (adjust this value if needed)
+  height: auto; // Maintains the image's aspect ratio
+  border-radius: 5%; // Optional: gives the image slightly rounded corners
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); // Optional: adds a subtle shadow
+  display: block; // Makes the image a block element so margin: auto works
+  margin: 0 auto 1.5em auto; // Centers the image and adds space below it
+}
+
+.intro-text p {
+  max-width: 800px; // Constrain width for readability on wide screens
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left; // Ensure text is left-aligned within its max-width
+  margin-bottom: 1em; // Add space between paragraphs
+  line-height: 1.6; // Improve line spacing
+}
