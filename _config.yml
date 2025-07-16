@@ -9,6 +9,6 @@ twitter_username: ScientificEhsan
 github_username:  ScientificEhsan
 linkedin_username: Shafqatehsan
 
-theme: minima
+remote_theme: mmistakes/minimal-mistakes@4.24.0 
 plugins:
   - jekyll-feed 
