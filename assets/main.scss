@@ -15,6 +15,7 @@ $code-background-color: #2b2b2b; // Slightly lighter for code blocks
 $link-color: #61afef; // A lighter blue for links
 $link-hover-color: lighten($link-color, 10%); // Slightly lighter on hover
 $border-color: #333; // Darker border for elements
+$secondary-text-color: #b0b0b0; // For less prominent text, like footer details
 
 // Apply dark background to the body and default text color
 body {
@@ -43,15 +44,33 @@ a {
   .site-title a {
     color: $text-color;
   }
+  // --- NEW: Navigation links ---
+  .site-nav {
+    .page-link {
+      color: $text-color; // Make navigation links light
+      &:hover {
+        color: $link-color; // Slightly different color on hover
+      }
+    }
+  }
+  // --- END NEW ---
 }
 
 .site-footer {
   border-top: 1px solid $border-color;
   background-color: lighten($background-color, 5%); // Slightly lighter footer
-  color: $text-color;
+  color: $text-color; // Ensure general footer text is light
   .social-media-list a {
-    color: $text-color;
+    color: $text-color; // Make social media icons/links light
   }
+  // --- NEW: Specific footer text/links ---
+  .contact-list, .contact-list a, .contact-list span {
+    color: $secondary-text-color; // Make contact info lighter but not as bright as main text
+  }
+  address, .site-info { // Targeting general footer info text
+    color: $secondary-text-color;
+  }
+  // --- END NEW ---
 }
 
 // Adjust for any preformatted text or code blocks
