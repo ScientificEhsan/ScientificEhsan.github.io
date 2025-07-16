@@ -9,4 +9,4 @@ layout: home
     <p>If you are searching for new drug targets, refining diagnostics, or just need someone who can wrangle omics data without losing the human side of biology, let us talk.
      <p>Thanks for stopping by. Feel free to reach out if you would like to chat about bioinformatics—or share your best throughput pun. </p>
 
-</div>
+
