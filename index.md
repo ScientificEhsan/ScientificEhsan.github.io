@@ -2,9 +2,9 @@
 layout: home
 ---
 
-Hello! I'm Shafqat Ehsan, a PhD student in the Quantitative Sciences Program at the University of Texas MD Anderson UT Health Houston GSBS. My research is primarily focused on understanding resistance mechanisms to chemoradiotherapy (CRT) and identifying potential radiosensitizing drugs for cervical cancer. I identify as a "Damp" Bioinformatician interested in translational research.
-![Site_logo](/Site_logo.png)
+![Shafqat Ehsan in Lab Coat](/SFE_LabCoat_1.jpg)
 
+Shafqat Ehsan, a PhD student in the Quantitative Sciences Program at the UT MD Anderson UT Health Houston GSBS, is focusing his research on understanding resistance mechanisms to chemoradiotherapy (CRT) and identifying potential radiosensitizing drugs for cervical cancer. His research applies a methodical approach utilizing tools like CRISPR/Cas9 screening, Next Generation Sequencing (Panomics), CyTOF, and Machine Learning. With a focus on translational bioinformatics, Shafqat's work aims to identify potential targets within the DNA damage pathway and uncover existing drugs that can enhance the efficacy of radiation therapy. One significant aspect of his research is the development of a CRT resistance map at single-cell resolution. By applying machine learning techniques to longitudinal data from patients and patient-derived organoids, Shafqat seeks to provide predictive insights into individual treatment outcomes, laying the groundwork for more personalized, precision medicine approaches in the future.
 
 ## My Work
 
@@ -12,7 +12,7 @@ My current project involves using tools such as CRISPR/Cas9 screening, Next Gene
 
 Check out the [Current Research](/current-research) page for a more in-depth look at my work, including a detailed overview of my specific aims and research methodology.
 
-## Science Communication  Blog
+## Science Communication Blog
 
 In addition to my research, I'm passionate about science communication. I believe it's vital to make science accessible to all, and I enjoy sharing my thoughts and insights on various topics related to science and technology.
 
